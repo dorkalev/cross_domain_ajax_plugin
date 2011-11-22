@@ -1,0 +1,10 @@
+Cross Domain Ajax Plugin
+
+When you do Ajax from plugin it can do cross domain just like a server proxy
+
+It is mainly needed if you need to ajax inside computers in organizations
+
+We do it for feed reading
+
+My extension.coffee & extension.js are opensource and free to use 
+Dor Kalev 22.11.2011
